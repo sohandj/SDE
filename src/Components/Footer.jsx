@@ -173,7 +173,7 @@ function Footer() {
                     e.target.style.color = '#fff';
                   }}
                 >
-                  sohandj@gmail.com
+                  shivasohandj@gmail.com
                 </a>
               </div>
             </div>
@@ -243,7 +243,7 @@ function Footer() {
             </a>
 
             <a 
-              href="https://x.com/sohandj"
+              href="https://x.com/SohanDJ2002"
               target="_blank"
               rel="noreferrer"
               style={styles.iconLink}
